@@ -1,7 +1,7 @@
-<?php $company = "WALDON AUTOMOTIVE SERVICE";
-$phone = "(812) 537-1865";
-	$address1 = "348 W EADS PKWY";
-	$address2 = "LAWRENCEBURG, IN 47025";
+<?php $company = "Cuzs Fresh Seafood & Poboys, LLC";
+$phone = "(228) 467-3707";
+	$address1 = "108 S Beach Blvd Ste A";
+	$address2 = "Bay Saint Louis, MS, 39520";
 ?>
 <!DOCTYPE html>
 <html style="font-size: 16px;">
